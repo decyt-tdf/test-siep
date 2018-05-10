@@ -1,0 +1,23 @@
+{
+  "name": "test-siep",
+  "version": "0.0.1",
+  "description": "Suit de tests e2e para el sistema siep",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decyt-tdf/test-siep.git"
+  },
+  "author": "Santiago Gil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/decyt-tdf/test-siep/issues"
+  },
+  "homepage": "https://github.com/decyt-tdf/test-siep#readme",
+  "dependencies": {
+    "puppeteer": "^1.4.0",
+    "tape": "^4.9.0"
+  }
+}
