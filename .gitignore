@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+# imagenes
+test-data/*.jpg
+test-data/*.PNG
+test-data/*.JPEG
+test-data/*.png
+
+# idea
+.idea/*
