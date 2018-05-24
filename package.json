@@ -18,6 +18,7 @@
   "homepage": "https://github.com/decyt-tdf/test-siep#readme",
   "dependencies": {
     "puppeteer": "^1.4.0",
-    "tape": "^4.9.0"
+    "tape": "^4.9.0",
+    "tape-catch": "^1.0.6"
   }
 }
